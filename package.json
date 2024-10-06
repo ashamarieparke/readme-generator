@@ -1,0 +1,24 @@
+{
+  "name": "readme.md-generator",
+  "version": "1.0.0",
+  "description": "Generates a readme file for develops/engineers to use for their projects on GitHub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "keywords": [],
+  "author": "Ashamarie Parke",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+
+}
